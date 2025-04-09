@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenAI Gym | 🌠 Xiaomeng Chen</title>
+    <link>http://localhost:1313/tags/openai-gym/</link>
+      <atom:link href="http://localhost:1313/tags/openai-gym/index.xml" rel="self" type="application/rss+xml" />
+    <description>OpenAI Gym</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>OpenAI Gym</title>
+      <link>http://localhost:1313/tags/openai-gym/</link>
+    </image>
+    
+    <item>
+      <title>Traffic Simulation &amp; Navigation</title>
+      <link>http://localhost:1313/project/traffic_simulation/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/traffic_simulation/</guid>
+      <description>&lt;p&gt;Traffic simulation and navigation is a popular issue in reinforcement learning that involves simulating traffic scenarios and training agents to navigate in these scenarios. The environment models the behavior of vehicles, and then the agent learns to take actions that maximize the reward or minimize penalties, such as optimizing travel time, reducing accidents or delays, and ensuring safety.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
