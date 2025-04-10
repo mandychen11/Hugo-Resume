@@ -90,34 +90,34 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
+        percent: 70
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 30
         icon: circle-stack
 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: Cats
+        description: 'adopted Leon (an orange cat) in 2022 !'
+        percent: 100
+        icon: cat
       - name: Snorkeling
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
+        icon: sun
       - name: Photography
         description: ''
-        percent: 40
+        percent: 20
         icon: camera
 
 languages:
-  - name: Chinese
+  - name: Chinese(Mandarin)
     percent: 100
   - name: English
     percent: 90
