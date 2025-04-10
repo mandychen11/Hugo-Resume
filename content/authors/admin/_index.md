@@ -98,11 +98,12 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Snorkeling
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -112,7 +113,7 @@ skills:
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 40
         icon: camera
 
 languages:
@@ -138,4 +139,4 @@ languages:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xiaomeng is a research assistant at the Institute for Artificial Intelligence at Peking University. My work spans machine learning, natural language processing, deep learning, and large-scale data analysis. With a MSc Data Science and a BEc Financial Mathematics, I have contributed to interdisciplinary research in national cancer disparity distribution and global emissions. My current focus is on integrating AI with practical applications in intelligent monitoring.
