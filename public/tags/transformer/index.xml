@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transformer | Xiaomeng Chen</title>
+    <link>http://localhost:1313/tags/transformer/</link>
+      <atom:link href="http://localhost:1313/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transformer</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Transformer</title>
+      <link>http://localhost:1313/tags/transformer/</link>
+    </image>
+    
+    <item>
+      <title>NLP Keyboard Autocomplete &amp; Autocorrect</title>
+      <link>http://localhost:1313/project/nlp/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/nlp/</guid>
+      <description>&lt;p&gt;Interactive, Data-driven Visual Narrative&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | 🌠 Xiaomeng Chen</title>
+    <title>Projects | Xiaomeng Chen</title>
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
@@ -21,10 +21,26 @@
     </item>
     
     <item>
+      <title>CNN-Based Model for Recognizing Street View House Numbers</title>
+      <link>http://localhost:1313/project/cnn/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cnn/</guid>
+      <description>&lt;p&gt;This project focuses on developing and optimizing image recognition models using the SVHN dataset for digit recognition.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Gender Bias at Birth</title>
       <link>http://localhost:1313/project/gender/</link>
       <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/gender/</guid>
+      <description>&lt;p&gt;Interactive, Data-driven Visual Narrative&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gender Bias at Birth</title>
+      <link>http://localhost:1313/project/nlp/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/nlp/</guid>
       <description>&lt;p&gt;Interactive, Data-driven Visual Narrative&lt;/p&gt;</description>
     </item>
     

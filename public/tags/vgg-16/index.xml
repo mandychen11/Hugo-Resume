@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VGG-16 | Xiaomeng Chen</title>
+    <link>http://localhost:1313/tags/vgg-16/</link>
+      <atom:link href="http://localhost:1313/tags/vgg-16/index.xml" rel="self" type="application/rss+xml" />
+    <description>VGG-16</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 06 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>VGG-16</title>
+      <link>http://localhost:1313/tags/vgg-16/</link>
+    </image>
+    
+    <item>
+      <title>CNN-Based Model for Recognizing Street View House Numbers</title>
+      <link>http://localhost:1313/project/cnn/</link>
+      <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cnn/</guid>
+      <description>&lt;p&gt;This project focuses on developing and optimizing image recognition models using the SVHN dataset for digit recognition.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
