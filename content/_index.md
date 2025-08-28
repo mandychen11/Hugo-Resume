@@ -26,10 +26,10 @@ sections:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 1
           size: cover
           position: center
-          parallax: false
+          parallax: true
   - block: markdown
     content:
       title: '📚 My Research'
@@ -41,6 +41,6 @@ sections:
         
         Please reach out to collaborate 😃
     design:
-      columns: '1'
+      columns: '0'
 
 ---

@@ -1,14 +1,11 @@
 ---
 # Display name
-title: Xiaomeng Chen
+title: Xiaomeng CHEN
 
 # Full name (for SEO)
 first_name: Xiaomeng
-last_name: Chen
+last_name: CHEN
 
-# Status emoji
-# status:
-#   icon: ！
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,7 +18,7 @@ role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute for Artificial Intelligence, Peking University
+  - name: Institute for Artificial Intelligence (IAI), Peking University
     url: https://www.ai.pku.edu.cn/
 
 # Social network links
@@ -38,18 +35,23 @@ profiles:
 interests:
   - Machine Learning
   - Intelligent Monitoring
-  - Computational Science
+  - Quantitative Economics
+  - Statistics
 
 education:
   - area: MSc Data Science
     institution: Georgetown University
     date_start: 2021-09-01
     date_end: 2023-05-31
+    summary: |
+      Courses: Optimization, Cloud Computing, NLP, Deep Learning
 
   - area: BEc Financial Mathematics
     institution: Xi’an Jiaotong-Liverpool University
     date_start: 2017-09-01
     date_end: 2021-07-31
+    summary: |
+      Courses: Econometrics, Applied Probability, Financial Management, Operational Research, Corporate Finance
 
 work:
   - position: Research Assistant
@@ -104,7 +106,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Cats
-        description: 'adopted Leon (an orange cat) in 2022 !'
+        description: 'adopted an orange cat in 2022'
         percent: 100
         icon: cat
       - name: Snorkeling
@@ -121,8 +123,8 @@ languages:
     percent: 100
   - name: English
     percent: 90
-  # - name: Germany
-  #   percent: 10
+  - name: German
+    percent: 5
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -139,4 +141,4 @@ languages:
 
 ## About Me
 
-Xiaomeng is a research assistant at the Institute for Artificial Intelligence at Peking University. My work spans machine learning, natural language processing, deep learning, and large-scale data analysis. With a MSc Data Science and a BEc Financial Mathematics, I have contributed to interdisciplinary research in national cancer disparity distribution and global emissions. My current focus is on integrating AI with practical applications in intelligent monitoring.
+I am a research assistant at the Institute for Artificial Intelligence (IAI), Peking University. With a background in data science and financial mathematics, my research spans machine learning, natural language processing, deep learning, and large-scale data analysis. I have contributed to interdisciplinary studies on cancer disparities and global emissions, and my current focus is on applying AI to intelligent monitoring.
